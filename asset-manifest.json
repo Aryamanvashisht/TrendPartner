@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TrendPartner/static/css/main.2e2dbe9a.css",
+    "main.js": "/TrendPartner/static/js/main.fbb3c215.js",
+    "static/js/787.82ea8e80.chunk.js": "/TrendPartner/static/js/787.82ea8e80.chunk.js",
+    "index.html": "/TrendPartner/index.html",
+    "main.2e2dbe9a.css.map": "/TrendPartner/static/css/main.2e2dbe9a.css.map",
+    "main.fbb3c215.js.map": "/TrendPartner/static/js/main.fbb3c215.js.map",
+    "787.82ea8e80.chunk.js.map": "/TrendPartner/static/js/787.82ea8e80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2dbe9a.css",
+    "static/js/main.fbb3c215.js"
+  ]
+}
